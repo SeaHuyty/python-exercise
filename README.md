@@ -1,0 +1,1 @@
+This is a collection of Python lessons and exercises to help improve your programming skills. It covers fundamental concepts such as basic syntax, data structures, and algorithms, making it a useful resource for anyone looking to practice Python knowledge. Feel free to explore, use, and modify the exercises to support your learning journey!
