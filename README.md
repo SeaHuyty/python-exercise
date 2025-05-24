@@ -1,4 +1,4 @@
-# Python Lessons & Exercises
+# Python Exercises
 
 A curated collection of Python lessons and hands-on exercises designed to help you strengthen your understanding of core programming concepts.
 
@@ -16,26 +16,6 @@ Topics covered include:
 - 🔁 Control Flow (if, for, while)  
 - 📦 Data Structures (Lists, Tuples, Sets, Dictionaries)  
 - 🎯 Problem Solving & Algorithms  
-
-## Getting Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/SeaHuyty/Python-LessonsAndExercise
-   ```
-
-2. **Navigate to the folder**:
-   ```bash
-   cd Python-LessonsAndExercise
-   ```
-
-3. Open the exercises in your preferred code editor and start coding!
-
-## How to Use
-
-- Go through the lessons folder in order, or jump into any topic that interests you.
-- Each exercise is standalone and includes comments or instructions.
-- Modify and experiment with the code to deepen your understanding.
 
 ## Tips
 
