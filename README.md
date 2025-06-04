@@ -1,6 +1,6 @@
 # Python Exercises
 
-A curated collection of Python lessons and hands-on exercises designed to help you strengthen your understanding of core programming concepts.
+A curated collection of Python hands-on exercises designed to help you strengthen your understanding of core programming concepts.
 
 ## Overview
 
@@ -16,12 +16,6 @@ Topics covered include:
 - 🔁 Control Flow (if, for, while)  
 - 📦 Data Structures (Lists, Tuples, Sets, Dictionaries)  
 - 🎯 Problem Solving & Algorithms  
-
-## Tips
-
-- Tackle one exercise at a time and try to solve it without looking at the solution right away.
-- Modify or expand existing exercises to deepen your understanding.
-- Use online platforms like Python Tutor to visualize how your code runs.
 
 ## Contributing
 

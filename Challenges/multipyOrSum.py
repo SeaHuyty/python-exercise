@@ -3,8 +3,11 @@
 #           Otherwise, return their sum.
 def multiply(number_01, number_02):
     return number_01 * number_02
+
 def total(number_01, number_02):
     return number_01 + number_02
+
+
 number_01 = int(input("Enter the first number: "))
 number_02 = int(input("Enter the second number: "))
 if number_01 * number_02 <= 1000:

@@ -22,6 +22,6 @@ if decision.lower() == 'yes':
             else:
                 print("Missed!!")
         else:
-            print("Type again mtfk")
+            print("Type again.")
 else:
     quit()
