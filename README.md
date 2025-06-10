@@ -17,6 +17,10 @@ Topics covered include:
 - 📦 Data Structures (Lists, Tuples, Sets, Dictionaries)  
 - 🎯 Problem Solving & Algorithms  
 
+## Get Started
+
+For a comprehensive guide to each exercise and its objectives, please refer to the [EXERCISE.md](EXERCISE.md) file.
+
 ## Contributing
 
 Feel free to fork this repo, add your own exercises, and submit pull requests. Sharing knowledge helps everyone grow!
