@@ -1,5 +1,5 @@
-# Exercise:  Declare 2 variables width and height of a rectangle; assign the value of width and height. 
-#            Calculate the area of the rectangle and provide a detailed explanation of the operation.
+# Calculate Area of a Rectangle:  Declare 2 variables width and height of a rectangle; assign the value of width and height. 
+#                                 Calculate the area of the rectangle and provide a detailed explanation of the operation.
 width = 1200
 height = 1200
 print("Formula of area of a rectangle:\n    Area = width * height")
